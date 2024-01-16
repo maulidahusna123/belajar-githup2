@@ -1,7 +1,7 @@
 # belajar-githup2
 pembelajaran githup
 
-## Tahap awal
+### Tahap awal
 
 halo nama saya maulida
 hari ini biasa saja
